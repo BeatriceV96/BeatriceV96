@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Snake animation](https://github.com/BeatriceV96/BeatriceV96/blob/output/snake.svg)
+
 <!--
 **BeatriceV96/BeatriceV96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
