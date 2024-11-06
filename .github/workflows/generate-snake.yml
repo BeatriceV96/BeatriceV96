@@ -1,4 +1,6 @@
+# Trigger workflow
 name: Generate Snake Game from GitHub Contribution Grid
+...
 
 on:
   schedule:
