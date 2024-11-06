@@ -1,11 +1,9 @@
-# Trigger workflow
 name: Generate Snake Game from GitHub Contribution Grid
-...
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Esegue l'azione una volta al giorno
-  workflow_dispatch:      # Permette di eseguire l'azione manualmente
+    - cron: "0 0 * * *"  # Esegui l'azione una volta al giorno
+  workflow_dispatch:       # Permette di eseguire l'azione manualmente
 
 jobs:
   build:
