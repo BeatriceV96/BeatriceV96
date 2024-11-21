@@ -17,7 +17,6 @@
 | ![C#](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat&logo=csharp&logoColor=white) **C#**      | ![AJAX](https://img.shields.io/badge/AJAX-%23F7DF1E.svg?&style=flat) **AJAX**  | ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?&style=flat&logo=sass&logoColor=white) **Sass** |
 | ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?&style=flat&logo=Microsoft%20SQL%20Server&logoColor=white) **SQL Server** | ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?&style=flat&logo=jquery&logoColor=white) **jQuery** | ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white) **Bootstrap** |
 |                                             |                                               | ![Adobe](https://img.shields.io/badge/Adobe%20Suite-%23FF0000.svg?&style=flat&logo=adobe&logoColor=white) **Adobe Suite** |
-                                      |                                               | ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white) **Bootstrap** |
 
 ---
 
