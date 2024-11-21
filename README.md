@@ -8,7 +8,7 @@
 - **Linguaggi:** HTML, CSS, JavaScript, TypeScript, C#
 - **Frameworks & Libraries:** Angular, ASP.NET Core, Entity Framework
 - **Strumenti:** Git, Visual Studio, Postman, Tailwind, Bootstrap
-- **Design:** UX/UI con un background nelle Arti Visive
+- **Design:** UX/UI con un background in Arti Visive
 
 ## 🌟 Progetti in evidenza
 - [Capstone-x-Epicode](https://github.com/BeatriceV96/Capstone-x-Epicode): Un progetto complesso che combina ASP.NET e Angular per un'app di e-commerce.
