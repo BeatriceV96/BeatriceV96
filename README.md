@@ -1,6 +1,6 @@
 # Beatrice Vanvitelli
 
-👋 Ciao! Mi chiamo Beatrice e sono una **Full-Stack Developer** appassionata di creazione di interfacce intuitive e funzionali.
+👋 Ciao! Mi chiamo Beatrice e sono una **Full-Stack Developer**.
 
 🌍 **Rome, Italy**
 
