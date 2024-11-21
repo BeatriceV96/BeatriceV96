@@ -22,6 +22,7 @@
 
 ### Strumenti
 - ![Git](https://img.shields.io/badge/Git-%23F05033.svg?&style=flat&logo=git&logoColor=white) **Git**
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&style=flat&logo=visual-studio-code&logoColor=white) **Visual Studio Code**
 - ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?&style=flat&logo=visual-studio&logoColor=white) **Visual Studio**
 - ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=flat&logo=postman&logoColor=white) **Postman**
 - ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?&style=flat&logo=tailwind-css&logoColor=white) **Tailwind CSS**
