@@ -26,4 +26,4 @@
 
 ## 📫 Contatti
 - **LinkedIn:** [Beatrice Vanvitelli](https://linkedin.com/in/beatrice-vanvitelli-81926a252)
-- **Email:**  (beatricevanvitelli1@gmail.com)
+- **Email:**  beatricevanvitelli1@gmail.com
