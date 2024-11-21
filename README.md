@@ -2,7 +2,7 @@
 
 👋 Ciao! Mi chiamo Beatrice e sono una **Full-Stack Developer** appassionata di creazione di interfacce intuitive e funzionali.
 
-🌍 **Basata a Roma, Italia**
+🌍 **Rome, Italy**
 
 ## 🛠️ Skills
 - **Linguaggi:** HTML, CSS, JavaScript, TypeScript, C#
