@@ -15,7 +15,6 @@
 
 ## 📫 Contatti
 - **LinkedIn:** [Beatrice Vanvitelli](https://linkedin.com/in/beatrice-vanvitelli-81926a252)
-- **Email:** [Tua Email](beatricevanvitelli1@gmail.com)
 
 <!--
 **BeatriceV96/BeatriceV96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
