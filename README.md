@@ -1,24 +1,21 @@
-# Benvenuta/o nel mio Profilo GitHub! 👋
+# Beatrice Vanvitelli
 
-![GitHub followers](https://img.shields.io/github/followers/BeatriceV96?style=social)
-![GitHub stars](https://img.shields.io/github/stars/BeatriceV96?style=social)
+👋 Ciao! Mi chiamo Beatrice e sono una **Full-Stack Developer** appassionata di creazione di interfacce intuitive e funzionali.
 
-Ciao! Mi chiamo **Beatrice Vanvitelli** e sono una Junior Full-Stack Developer appassionata di tecnologia, design e creatività. 🎨💻
+🌍 **Basata a Roma, Italia**
 
-## 📌 Progetti principali
-- **[Capstone-x-Epicode](https://github.com/BeatriceV96/Capstone-x-Epicode)**: Un progetto completo di e-commerce realizzato con ASP.NET e Angular.
-- **[Modulo3](https://github.com/BeatriceV96/Modulo3)**: Progetto in TypeScript con focus su componenti e RxJS.
-
-## 🛠️ Competenze principali
+## 🛠️ Skills
 - **Linguaggi:** HTML, CSS, JavaScript, TypeScript, C#
-- **Frameworks:** Angular, ASP.NET Core
-- **Design Tools:** UX/UI, Tailwind, Bootstrap
+- **Frameworks & Libraries:** Angular, ASP.NET Core, Entity Framework
+- **Strumenti:** Git, Visual Studio, Postman, Tailwind, Bootstrap
+- **Design:** UX/UI con un background nelle Arti Visive
 
----
+## 🌟 Progetti in evidenza
+- [Capstone-x-Epicode](https://github.com/BeatriceV96/Capstone-x-Epicode): Un progetto complesso che combina ASP.NET e Angular per un'app di e-commerce.
 
-📫 **Contattami:**
-- LinkedIn: [Beatrice Vanvitelli](https://linkedin.com/in/beatrice-vanvitelli-81926a252)
-- Email: [tuoemail@example.com](mailto:tuoemail@example.com)
+## 📫 Contatti
+- **LinkedIn:** [Beatrice Vanvitelli](https://linkedin.com/in/beatrice-vanvitelli-81926a252)
+- **Email:** [Tua Email](beatricevanvitelli1@gmail.com)
 
 <!--
 **BeatriceV96/BeatriceV96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
